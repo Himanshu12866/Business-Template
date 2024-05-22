@@ -9,7 +9,7 @@
     <h1>
         A simple Business Template
     </h1>
-    <h3>Welcome to my GitHub acciunt</h3>
+    <h3>Welcome to my GitHub account</h3>
     <p>In this repository I have made a simple Business Template.</p>
     <p>To make this this design I have inly used HTML and CSS.</p>
     <P>To make this template attractive I have used some advanced CSS</P>
