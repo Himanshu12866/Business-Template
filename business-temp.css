@@ -32,7 +32,7 @@ html {
   padding-bottom: 10px;
   position: sticky;
   top: 0;
-  z-index: 5;
+  z-index: 10;
 }
 .to-logo {
   margin-top: 15px;
@@ -456,6 +456,7 @@ text-align: center;
 }
 ::placeholder {
   color: grey;
+font-size:inherit;
 }
 .send-msg-btn {
   background-color: black;
